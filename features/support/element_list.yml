@@ -1,0 +1,10 @@
+ElementSet:
+
+  ## Home Page Elements
+  Person_Icon: .customer-list-item
+  Login_Page_Button: span[data-key-name="Account.Login.Or.Register"]
+  My_Account_Text: .customer-list-item .rubik-medium
+  Logout_Button: .fa-sign-out-alt
+
+  ## Login Page Elements
+  Login_Button: div#myTabContent [data-key-name="Account.Login.LoginButton"]
